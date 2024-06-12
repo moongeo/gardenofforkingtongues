@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gardenofforkingtongues/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/gardenofforkingtongues/static/js/main.3ed87253.chunk.js",
+    "main.js.map": "/gardenofforkingtongues/static/js/main.3ed87253.chunk.js.map",
+    "runtime-main.js": "/gardenofforkingtongues/static/js/runtime-main.b90c0f37.js",
+    "runtime-main.js.map": "/gardenofforkingtongues/static/js/runtime-main.b90c0f37.js.map",
+    "static/js/2.3270fd76.chunk.js": "/gardenofforkingtongues/static/js/2.3270fd76.chunk.js",
+    "static/js/2.3270fd76.chunk.js.map": "/gardenofforkingtongues/static/js/2.3270fd76.chunk.js.map",
+    "index.html": "/gardenofforkingtongues/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/gardenofforkingtongues/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3270fd76.chunk.js.LICENSE.txt": "/gardenofforkingtongues/static/js/2.3270fd76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b90c0f37.js",
+    "static/js/2.3270fd76.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3ed87253.chunk.js"
+  ]
+}
